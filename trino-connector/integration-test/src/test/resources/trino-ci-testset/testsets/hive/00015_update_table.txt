@@ -1,9 +1,0 @@
-INSERT: 2 rows
-
-"1","bob","12"
-"2","tom","13"
-
-UPDATE: 1 row
-
-"1","bob_update","12"
-"2","tom","13"
